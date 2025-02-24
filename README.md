@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📫 How to Reach Me
 - **Email**: mauri.moreno.vargas@gmail.com
 
-## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimorenobge&repo=awesome-project&theme=radical)](https://github.com/maurimorenobge/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimorenobge&repo=another-cool-project&theme=radical)](https://github.com/maurimorenobge/another-cool-project)
-
 ## 💬 Let's Connect
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
