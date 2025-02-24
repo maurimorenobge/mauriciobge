@@ -20,9 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurimorenobge&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **Email**: mauricio.moreno@example.com
-- **LinkedIn**: [Mauricio Moreno](https://www.linkedin.com/in/maurimorenobge)
-- **Twitter**: [@maurimorenobge](https://twitter.com/maurimorenobge)
+- **Email**: mauri.moreno.vargas@gmail.com
 
 ## 🌟 Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maurimorenobge&repo=awesome-project&theme=radical)](https://github.com/maurimorenobge/awesome-project)
